@@ -1,4 +1,5 @@
-[Rahmschnitzel](text/rahmschnitzel.md)
+- [Rahmschnitzel](text/rahmschnitzel.md)
+- [Christl Schwaha Schnitten](text/christl_schwaha.md)
 
 # Bolognese a la Grubese
 
