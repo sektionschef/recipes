@@ -1,6 +1,6 @@
 # Sophie und Nardos Kässpätzle
 
-![](uploads/2013/04/Kässpätzle_07.jpg)
+![](../images/käsespätzle/Kässpätzle_07.jpg)
 
 ## Ingredients
 
@@ -29,4 +29,4 @@
 - put the whole thing in the oven at 120 °C
 - as soon as the cheese is fully melted -> bon apetit!
 
-![](uploads/2013/04/Kässpätzle_01.jpg) ![](uploads/2013/04/Kässpätzle_02.jpg) ![](uploads/2013/04/Kässpätzle_03.jpg) ![](uploads/2013/04/Kässpätzle_04.jpg) ![](uploads/2013/04/Kässpätzle_05.jpg) ![](uploads/2013/04/Kässpätzle_06.jpg)
+![](../images/käsespätzle/Kässpätzle_01.jpg) ![](../images/käsespätzle/Kässpätzle_02.jpg) ![](../images/käsespätzle/Kässpätzle_03.jpg) ![](../images/käsespätzle/Kässpätzle_04.jpg) ![](../images/käsespätzle/Kässpätzle_05.jpg) ![](../images/käsespätzle/Kässpätzle_06.jpg)

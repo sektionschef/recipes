@@ -1,6 +1,6 @@
 # Germknödel
 
-![](uploads/2013/02/p1000368.jpg)
+![](../images/germknödel/p1000368.jpg)
 
 ## What you need
 
@@ -23,4 +23,4 @@
 8. Afterwards steam the dumplings for 10 minutes
 9. Serve the Germknödel with ground poppy seeds, sugar and melted butter
 
-![burn baby burn](uploads/2013/02/p1000354.jpg) ![yeast](uploads/2013/02/p1000356.jpg) ![Butter](uploads/2013/02/p1000358.jpg) ![robot help](uploads/2013/02/p1000359.jpg) ![twisted Germknödel dough](uploads/2013/02/p1000360.jpg) ![sleeping Germknödel](uploads/2013/02/p1000361.jpg) ![roll 'em](uploads/2013/02/p1000363.jpg) ![the awakening of Germknödel](uploads/2013/02/p1000364.jpg) ![delicious Germknödel](uploads/2013/02/p1000369.jpg)
+![burn baby burn](../images/germknödel/p1000354.jpg) ![yeast](../images/germknödel/p1000356.jpg) ![Butter](../images/germknödel/p1000358.jpg) ![robot help](../images/germknödel/p1000359.jpg) ![twisted Germknödel dough](../images/germknödel/p1000360.jpg) ![sleeping Germknödel](../images/germknödel/p1000361.jpg) ![roll 'em](../images/germknödel/p1000363.jpg) ![the awakening of Germknödel](../images/germknödel/p1000364.jpg) ![delicious Germknödel](../images/germknödel/p1000369.jpg)

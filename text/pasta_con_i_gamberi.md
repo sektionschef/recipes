@@ -1,6 +1,6 @@
 # Pasta Con I Gamberi Alla Papa Emanuele
 
-![the result: Pasta gamberi](uploads/2013/02/pastagamberi05.jpg)
+![the result: Pasta gamberi](../images/pasta_con_i_gamberi/pastagamberi05.jpg)
 
 ## What you need
 
@@ -13,7 +13,7 @@
 - Parsley
 - Spaghetti
 
-![pasta con i gamberi 01](uploads/2013/02/pastagamberi01.jpg)
+![pasta con i gamberi 01](../images/pasta_con_i_gamberi/pastagamberi01.jpg)
 
 ## How you do it
 
@@ -29,4 +29,4 @@
 - Last but not least, put the cut walnuts on top of your pasta
 - Enjoy
 
-![](uploads/2013/02/pastagamberi04.jpg) ![](uploads/2013/02/pastagamberi03.jpg) ![](uploads/2013/02/pastagamberi02.jpg)
+![](../images/pasta_con_i_gamberi/pastagamberi04.jpg) ![](../images/pasta_con_i_gamberi/pastagamberi03.jpg) ![](../images/pasta_con_i_gamberi/pastagamberi02.jpg)

@@ -1,6 +1,6 @@
 # Gaeng Pet Gai (Red Curry)
 
-[![Gaeng ](uploads/2013/03/IMG_20130301_193114-1024x768.jpg)](uploads/2013/03/IMG_20130301_193114.jpg)
+[![Gaeng ](../images/gaeng_pet_gai/IMG_20130301_193114-1024x768.jpg)](../images/gaeng_pet_gai/IMG_20130301_193114.jpg)
 
 ## Ingredients for four persons
 
@@ -32,4 +32,4 @@
 8. season it with fish sauce
 9. put the vegetables in
 
-![](uploads/2013/03/IMG_20130301_192710.jpg) ![](uploads/2013/03/IMG_20130301_191627.jpg) ![](uploads/2013/03/IMG_20130301_190432.jpg)
+![](../images/gaeng_pet_gai/IMG_20130301_192710.jpg) ![](../images/gaeng_pet_gai/IMG_20130301_191627.jpg) ![](../images/gaeng_pet_gai/IMG_20130301_190432.jpg)
