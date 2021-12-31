@@ -9,6 +9,7 @@
 - [Germknödel](text/germknödel.md)
 - [Sacher Torte](text/sacher_torte.md)
 - [Lightning Liquid Chocolate Cake](text/lightning_liquid_chocolate_cake.md)
+- [Charleston-Klößchen](text/charleston-kloesschen)
 
 ## Asian
 
