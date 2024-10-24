@@ -20,5 +20,6 @@
 
 ## Italian
 
+- [Pizza Neopolitana](text/pizza_neapolitana.md)
 - [Bolognese](text/bolognese.md)
 - [Pasta con i gamberi](text/pasta_con_i_gamberi.md)
