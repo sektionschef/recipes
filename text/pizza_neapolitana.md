@@ -5,6 +5,9 @@
     • 325g cold water – 65% hydration
     • 15g salt – 3%
     • 0.75g dry yeast – 1.5g fresh yeast – 0.0015%
+    * 1 can tomatoe sauce - 4 pizze
+    * 1 mozzarella - 2 pizze
+    
 
 ## Dough
     • put some water on the salt
@@ -31,3 +34,7 @@
     • remove all semola underneath and on the dough itself
     • rotate and pull with one hand and the other one rests
     • put on what you want
+
+## Notes
+  * oven needs 18 minutes
+
